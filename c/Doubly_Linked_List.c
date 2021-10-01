@@ -429,7 +429,7 @@ void search_element(struct node* head)
     if(flag==0)
     printf("Element not found.\n");
 }
-int main()
+int main()//main function
 {
     struct node* head=NULL;
     int choice,bool=1,flag=0,n;
