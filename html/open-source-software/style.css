@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 1em;
+    
+}
+.oss-image{
+    width: 100px;
+    padding-left: 1em ;
+}
+.paragraph{
+    width: 85%;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #545F66;
+}
+.table{
+    border: 1px solid;
+    width: 35%;
+    padding: 2em;
+}
+a{
+    text-decoration: none;
+    color: #363535;
+}
+a:hover{
+    color: blue;
+}
